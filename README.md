@@ -1,20 +1,25 @@
-<<<<<<< HEAD
-# React + Vite
+# Event. — Landing Page Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Sebuah proyek landing page responsif untuk manajemen event yang dibangun menggunakan **React**, **Vite**, dan **Tailwind CSS**. Proyek ini dibuat sebagai media pembelajaran untuk menguasai pembuatan komponen antarmuka web modern, interaktif, dan responsif.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+🔗 **[Lihat Website di Sini](https://sholihdinrizky.github.io/react-tailwind-event/)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Fitur Utama
+* **Desain Responsif Teruji:** Optimal saat diakses melalui perangkat mobile maupun desktop dengan transisi breakpoint Tailwind CSS (`md: 768px`).
+* **Swiper JS Slider:** Integrasi slider interaktif yang mulus pada bagian *Pembicara Event* untuk navigasi multi-komponen yang dinamis.
+* **Animate On Scroll (AOS):** Efek animasi transisi elemen yang elegan saat halaman digulir ke bawah.
+* **Arsitektur Berbasis Komponen:** Pemisahan struktur kode halaman yang bersih dan modular (*Beranda, Tentang, Pembicara, dan Hubungi Kami*).
 
-## React Compiler
+## 🛠️ Tech Stack & Library
+* **Framework Utama:** React.js (Vite)
+* **Styling:** Tailwind CSS
+* **Slider:** Swiper JS
+* **Animasi:** AOS (Animate On Scroll)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 💻 Cara Menjalankan Project Secara Lokal
 
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
-=======
-# react-tailwind-event
->>>>>>> 30b0c871f7588dfa39de70683582d6a8a1ed84a5
+1. **Clone Repositori**
+   ```bash
+   git clone [https://github.com/sholihdinrizky/react-tailwind-event.git](https://github.com/sholihdinrizky/react-tailwind-event.git)
+   cd learn-react
